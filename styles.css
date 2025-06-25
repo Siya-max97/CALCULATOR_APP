@@ -1,5 +1,5 @@
 :root {
-  --bg-dark: #1c1c1c;
+  --bg-dark: #fdfdfd;
   --bg-light: #333;
   --bg-orange: #ff9500;
   --text-white: #fff;
@@ -8,7 +8,7 @@
 
 body {
   margin: 0;
-  background-color: #000;
+  background-color: #ffffff;
   font-family: 'Helvetica Neue', sans-serif;
   display: flex;
   justify-content: center;
